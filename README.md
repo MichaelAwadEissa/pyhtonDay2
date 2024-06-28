@@ -12,3 +12,12 @@ git push :dev
 2>
 git stash
 git checkout test
+
+
+
+
+3>
+git tag
+
+git tag -d v1.7
+git push origin --delete v1.7
