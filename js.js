@@ -1,2 +1,3 @@
-let x =10;git
+let x =10;
+let y = 20;
 
